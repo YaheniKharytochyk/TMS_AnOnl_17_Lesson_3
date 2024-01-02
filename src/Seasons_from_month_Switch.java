@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class Seasons_from_month_Switch {
     public static void main(String[] args) {
-        // Задание №1
         Scanner scan = new Scanner(System.in);
         String Winter = "Зима";
         String Spring = "Весна";
